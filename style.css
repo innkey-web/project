@@ -20,7 +20,7 @@ nav ul {
     display: flex;
     gap: 70px;
     font-weight: bold;
-    font-size: 25px;
+    font-size: 19px;
     color: white;
     margin-right: 400px;
 }
@@ -89,7 +89,7 @@ a {
 }
 
 .aboutus h2{
-    padding: 70px 400px 300px 400px;
+    padding: 70px 250px 150px 250px;
     text-align: center;   
 }
 
